@@ -1,0 +1,133 @@
+D:\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+D:\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe
+D:\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.pdb
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_izdateley.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.exe
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.pdb
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_izdateley.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.exe
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.pdb
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.pdb
+E:\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+E:\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe
+E:\п\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.pdb
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_izdateley.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.exe
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.pdb
+C:\Users\Вильдан\Desktop\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+D:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+E:\п\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+D:\почти\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+D:\почти\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe
+D:\почти\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.pdb
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_izdateley.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.exe
+D:\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.pdb
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.exe
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\bin\Debug\Редакция ежедневной газеты.pdb
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_izdateley.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.exe
+C:\Users\Вильдан\Desktop\почти\Редакция ежедневной газеты\obj\Debug\Редакция ежедневной газеты.pdb
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\bin\Debug\Редакция ежедневной газеты.exe
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\bin\Debug\Редакция ежедневной газеты.pdb
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_izdateley.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция ежедневной газеты.exe
+D:\со старого ноута\С раб стола\почти2\Редакция газеты\obj\Debug\Редакция ежедневной газеты.pdb
+D:\учёба\практика учебная\Редакция газеты\bin\Debug\Редакция ежедневной газеты.exe.config
+D:\учёба\практика учебная\Редакция газеты\bin\Debug\Редакция ежедневной газеты.exe
+D:\учёба\практика учебная\Редакция газеты\bin\Debug\Редакция ежедневной газеты.pdb
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.AssemblyReference.cache
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.avtorization.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.balance.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_gaset.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.dobavlenie_sotrydnikov.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.admin.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.polzovatel.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.predlozenie_gazet.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.Properties.Resources.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.registration.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция_ежедневной_газеты.sotrudniki.resources
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.GenerateResource.cache
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.CoreCompileInputs.cache
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция ежедневной газеты.exe
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция ежедневной газеты.pdb
+D:\учёба\практика учебная\Редакция газеты\obj\Debug\Редакция ежедневной газеты.csproj.ResolveComReference.cache
